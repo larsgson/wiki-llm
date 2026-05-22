@@ -37,6 +37,7 @@ When commons governance is undermined — by land privatisation, state takeover,
 - [[Nomadic Pastoralism/nomadic-pastoralism]]
 - [[Nomadic Pastoralism/the-need-for-mobility]]
 - [[Creation Care/protected-areas]]
+- [[Creation Care/environment-and-economics]]
 - [[Five Marks of Mission/transforming-society]]
 
 ## Sources

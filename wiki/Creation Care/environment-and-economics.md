@@ -32,6 +32,8 @@ Mainstream economic models often treat nature as an externality or unlimited inp
 - [[Creation Care/creation-care]]
 - [[Creation Care/biodiversity-and-rangelands]]
 - [[Five Marks of Mission/transforming-society]]
+- [[Nomadic Pastoralism/nomadic-pastoralism]]
+- [[Nomadic Pastoralism/local-indigenous-knowledge]]
 
 ## Sources
 

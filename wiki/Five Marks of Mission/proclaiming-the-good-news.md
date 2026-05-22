@@ -23,6 +23,7 @@ Within the Five Marks framework, proclamation is held together with the other fo
 - [[Five Marks of Mission/five-marks-of-mission]]
 - [[Five Marks of Mission/discipleship-and-formation]]
 - [[Five Marks of Mission/loving-service]]
+- [[Five Marks of Mission/stewarding-creation]]
 
 ## Sources
 

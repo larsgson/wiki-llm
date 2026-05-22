@@ -50,6 +50,10 @@
 - [[Sources/stott-evangelism-neighbour-love]] — Evangelism vs Neighbor-Love (John Stott)
 - [[Sources/icca-consortium]] — ICCA Consortium — Territories of Life
 - [[Sources/rogers-five-reasons-serve]] — 5 Reasons Why We Love Our Neighbour and Serve
+- [[Sources/ten-facts-rangelands]] — Ten interesting facts about rangelands (ILRI)
+- [[Sources/iyrp-2026]] — International Year of Rangelands and Pastoralists 2026
+- [[Sources/lausanne-what-is-just]] — What is fair and just? (Lausanne)
+- [[Sources/rangelands-atlas]] — Rangelands Atlas (FAO/IUCN/UNEP/WWF)
 
 ---
 

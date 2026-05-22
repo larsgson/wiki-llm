@@ -26,10 +26,12 @@ In pastoral and mountain contexts, systemic injustice includes land dispossessio
 - [[Five Marks of Mission/stewarding-creation]]
 - [[Nomadic Pastoralism/managing-common-resources]]
 - [[Nomadic Pastoralism/providing-services-for-nomads]]
+- [[Nomadic Pastoralism/the-need-for-mobility]]
+- [[Creation Care/environment-and-economics]]
 
 ## Sources
 
 - [UN Sustainable Development Goals](https://sdgs.un.org/goals) — 17 goals adopted by all UN Member States in 2015 as part of the 2030 Agenda, representing an urgent call to end poverty and deprivation while advancing health, education, economic growth, and environmental protection.
 - [Thinking Biblically about Systemic Injustice (Thaddeus Williams)](https://www.biola.edu/blogs/good-book-blog/2021/thinking-biblically-about-systemic-injustice) — Argues that Scripture shows sin can be expressed through systems, but cautions against automatically equating all disparity with discrimination. Encourages critical examination of evidence to identify actual injustice. [[Sources/williams-systemic-injustice|Full notes]]
 - [Journey Towards Justice: Personal Encounters in the Global South](https://www.livedtheology.org/resources/recommended-resources-journey-toward-justice/) — Book exploring justice through personal encounters in development contexts.
-- [What is fair and just? (Lausanne)](https://lausanne.org/report/just) — Lausanne report on justice as integral to mission.
+- [What is fair and just? (Lausanne)](https://lausanne.org/report/just) — Lausanne report on justice as integral to mission. [[Sources/lausanne-what-is-just|Full notes]]

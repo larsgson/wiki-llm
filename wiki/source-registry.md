@@ -60,3 +60,13 @@ Tracks all external URLs that have been fetched and summarised into wiki pages. 
 | https://doi.org/10.1016/j.oneear.2020.10.013 | done | curl+meta | 2026-05-22 | — | biodiversity-and-rangelands | 200 but no extractable abstract; title only |
 | https://doi.org/10.1016/j.cosust.2023.101298 | done | curl+meta | 2026-05-22 | — | local-and-traditional-livelihoods | 200 but no extractable abstract; title only |
 | https://doi.org/10.1016/j.cosust.2016.12.006 | done | curl+meta | 2026-05-22 | — | creation-care, stewarding-creation | 200 but no extractable abstract; title only |
+| https://www.ilri.org/news/ten-interesting-facts-about-rangelands | done | WebFetch | 2026-05-22 | ten-facts-rangelands | biodiversity-and-rangelands | 10 key facts, 54% land, 2B people |
+| https://iyrp.info/ | done | WebFetch | 2026-05-22 | iyrp-2026 | nomadic-pastoralism | UN Year 2026, awareness & policy advocacy |
+| https://lausanne.org/report/just | done | WebFetch | 2026-05-22 | lausanne-what-is-just | transforming-society | Justice integral to mission, global perspectives |
+| https://www.rangelandsdata.org/atlas/ | done | WebFetch | 2026-05-22 | rangelands-atlas | biodiversity-and-rangelands | FAO/IUCN/UNEP/WWF spatial data on rangelands |
+| https://www.practicingtheway.org/ | done | curl+meta | 2026-05-22 | — | discipleship-and-formation | Spiritual formation practices; one-liner sufficient |
+| https://biologos.org/ | failed | — | 2026-05-22 | — | stewarding-creation | 403 on WebFetch; org homepage, one-liner sufficient |
+| https://jri.org.uk/ | done | curl+meta | 2026-05-22 | — | stewarding-creation | John Ray Initiative; science-faith-environment |
+| https://www.christianityexplored.org/ | done | curl+meta | 2026-05-22 | — | proclaiming-the-good-news | Course exploring Mark's Gospel; one-liner sufficient |
+| https://teeb.biodiversityfinance.net/ | failed | — | 2026-05-22 | — | environment-and-economics | 403 on WebFetch; TEEB initiative homepage |
+| https://ipbes.net/ilk | failed | — | 2026-05-22 | — | local-indigenous-knowledge | 403 on WebFetch; IPBES ILK programme page |

@@ -50,7 +50,16 @@
       "WebFetch(domain:www.plough.com)",
       "Bash(curl -sL \"https://doi.org/10.1016/j.cosust.2023.101298\")",
       "Bash(curl -sL \"https://www.iccaconsortium.org\")",
-      "Bash(git -C /Users/larsgson/dev/bw/wiki-llm status --short)"
+      "Bash(git -C /Users/larsgson/dev/bw/wiki-llm status --short)",
+      "WebFetch(domain:practicingtheway.org)",
+      "WebFetch(domain:biologos.org)",
+      "WebFetch(domain:jri.org.uk)",
+      "WebFetch(domain:www.unep.org)",
+      "WebFetch(domain:www.ilri.org)",
+      "WebFetch(domain:iyrp.info)",
+      "WebFetch(domain:www.ipbes.net)",
+      "WebFetch(domain:www.rangelandsdata.org)",
+      "WebFetch(domain:www.christianityexplored.org)"
     ]
   }
 }

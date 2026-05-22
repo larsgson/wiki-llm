@@ -27,6 +27,7 @@ Enabling pastoral mobility requires legal recognition of customary routes and ac
 - [[Nomadic Pastoralism/managing-common-resources]]
 - [[Creation Care/biodiversity-and-rangelands]]
 - [[Creation Care/protected-areas]]
+- [[Five Marks of Mission/transforming-society]]
 
 ## Sources
 

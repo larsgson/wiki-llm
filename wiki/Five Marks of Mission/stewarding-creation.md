@@ -25,6 +25,8 @@ Stewarding creation is not an add-on to the other four marks but integral to the
 - [[Five Marks of Mission/transforming-society]]
 - [[Creation Care/creation-care]]
 - [[Creation Care/environment-and-economics]]
+- [[Creation Care/biodiversity-and-rangelands]]
+- [[Creation Care/local-and-traditional-livelihoods]]
 
 ## Sources
 

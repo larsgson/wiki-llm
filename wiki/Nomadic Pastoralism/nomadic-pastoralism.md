@@ -44,7 +44,7 @@ In the context of climate change and increasing environmental pressures, pastora
 ## Key Resources
 
 - [FAO Pastoralist Knowledge Hub](https://www.fao.org/pastoralist-knowledge-hub/) — Technical repository and neutral forum centralising knowledge on pastoralism and fostering partnerships to ensure pastoral issues are integrated into global policy. [[Sources/fao-pastoralist-knowledge-hub|Full notes]]
-- [International Year of Rangelands and Pastoralists 2026](https://iyrp.info/) — Global initiative raising awareness of rangelands and pastoralist contributions.
+- [International Year of Rangelands and Pastoralists 2026](https://iyrp.info/) — Global initiative raising awareness of rangelands and pastoralist contributions. [[Sources/iyrp-2026|Full notes]]
 - [UNCCD Thematic Report on Rangelands and Pastoralists](https://www.unccd.int/resources/global-land-outlook/glo-thematic-report-rangelands-and-pastoralists) — Major report on the state of rangelands and their governance.
 - [Pastoralism can mitigate biodiversity loss on global rangelands](https://doi.org/10.1093/biosci/biaf158) — Evidence that pastoral land use maintains biodiversity better than alternative uses when supported by appropriate governance. [[Sources/pastoralism-mitigate-biodiversity-loss|Full notes]]
 - [Globalisation and the sustainability of farmers, livestock-keepers, pastoralists and fragile habitats](https://doi.org/10.1080/14888386.2014.931247) — Examines how globalisation affects pastoral sustainability.
