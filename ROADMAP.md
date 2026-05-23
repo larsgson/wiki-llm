@@ -17,8 +17,8 @@
 Target: 2–3 contributors, each using their own AI assistant.
 
 ### Setup
-- [ ] Create GitHub repository and push main branch
-- [ ] Protect `main` branch — no direct pushes
+- [x] Create GitHub repository and push main branch
+- [x] Protect `main` branch — branch ruleset (no force push, no delete, require PR with 1 approval)
 - [x] Add PR template (`.github/pull_request_template.md`) with checklist
 - [ ] Add contributors with write access
 
