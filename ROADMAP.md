@@ -1,23 +1,25 @@
 # Roadmap
 
-## Current: Solo Maintainer Phase
+## Completed: Solo Maintainer Phase
 
 - [x] Obsidian vault structure with three fixed top topics
-- [x] CLAUDE.md with wiki conventions and workflows
+- [x] CLAUDE.md with wiki conventions and workflows (10 rules)
 - [x] Source registry for tracking fetched external URLs
 - [x] Git versioning
-- [ ] Complete initial ingest of `raw/ClusterDocsTablesV2.docx` (all three topics)
-- [ ] Populate remaining stub pages (mountains-and-wetlands, protected-areas, all Nomadic Pastoralism and Five Marks of Mission subtopics)
-- [ ] Initial commit and push to GitHub
+- [x] Complete initial ingest of `raw/ClusterDocsTablesV2.docx` (all three topics)
+- [x] 18 subtopic pages + 26 source pages populated
+- [x] Cross-link audit and enrichment
+- [x] Operation log (`wiki/log.md`)
+- [x] Unsourced claims tagged with `[needs verification]`
 
-## Next: Multi-User Collaboration
+## Current: Multi-User Collaboration
 
 Target: 2–3 contributors, each using their own AI assistant.
 
 ### Setup
-- [ ] Create GitHub repository (private or public — TBD)
+- [ ] Create GitHub repository and push main branch
 - [ ] Protect `main` branch — no direct pushes
-- [ ] Add PR template (`.github/pull_request_template.md`) with checklist: conventions followed, source registry updated, no copyright content stored
+- [x] Add PR template (`.github/pull_request_template.md`) with checklist
 - [ ] Add contributors with write access
 
 ### Workflow Rules
