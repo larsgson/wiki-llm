@@ -14,7 +14,7 @@ In pastoralist and mountain community contexts, these ecosystems are not remote 
 
 ## Key Claims
 
-- Mountains provide water, food, and energy to more than half the world's population
+- Mountains provide water, food, and energy to more than half the world's population [needs verification]
 - Wetland loss is accelerating globally, with severe consequences for water security and biodiversity
 - Drivers of change in mountain regions include climate warming, infrastructure expansion, market integration, and policy neglect
 - Effective mountain and wetland conservation requires integration of local knowledge and community governance
@@ -22,7 +22,7 @@ In pastoralist and mountain community contexts, these ecosystems are not remote 
 ## Key Frameworks & Institutions
 
 - [Mountain Partnership](https://www.fao.org/mountain-partnership/en/) — FAO-hosted global network promoting sustainable mountain development through advocacy, knowledge sharing, and policy engagement.
-- [Ramsar Convention on Wetlands](https://www.ramsar.org) — International treaty (est. 1971) providing the framework for wetland conservation and wise use. Designates Wetlands of International Importance.
+- [Ramsar Convention on Wetlands](https://www.ramsar.org) — International treaty (est. 1971 [needs verification]) providing the framework for wetland conservation and wise use. Designates Wetlands of International Importance.
 - [ICIMOD](https://www.icimod.org) — International Centre for Integrated Mountain Development, focused on the Hindu Kush Himalaya region across eight countries. Works on climate and environmental risks, resilient economies and landscapes, and regional advocacy.
 
 ## Related

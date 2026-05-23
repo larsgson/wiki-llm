@@ -58,4 +58,5 @@
 ---
 
 ## Meta
+- [[log]] — Append-only operation log (what changed, when, why)
 - [[source-registry]] — Tracks all fetched external URLs (status, dates, focus)

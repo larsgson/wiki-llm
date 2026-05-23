@@ -34,7 +34,11 @@ Every page should link to related pages across and within topics. Use `[[Topic F
 
 When updating an existing page with new source material, append rather than overwrite. Preserve prior claims and note the new source.
 
-### 7. External Links: Summarise, Don't Copy
+### 7. Mark Unverified Claims
+
+If a factual claim on a wiki page has no source, mark it with `[needs verification]` inline. Do not silently present unsourced claims as established facts. When a source is later found, replace the marker with a proper citation.
+
+### 8. External Links: Summarise, Don't Copy
 
 When a source document contains external URLs (articles, papers, org pages):
 - **Never** store full fetched content in `raw/` or anywhere else (copyright).
@@ -42,9 +46,13 @@ When a source document contains external URLs (articles, papers, org pages):
 - **Do** write an AI-generated summary in your own words on the relevant wiki page.
 - **Always** keep the original URL as the canonical reference.
 - Format external references as: `[Title / Description](URL) — summary in own words`
-- **Always** update `wiki/source-registry.md` after fetching (see Rule 8).
+- **Always** update `wiki/source-registry.md` after fetching (see Rule 9).
 
-### 8. Source Registry
+### 9. Operation Log
+
+After every ingest or significant wiki update, append an entry to `wiki/log.md` recording the date, what source was processed, and which pages were created or updated. This provides a human-readable changelog browsable inside Obsidian without needing git.
+
+### 10. Source Registry
 
 Every external URL that is fetched must be logged in `wiki/source-registry.md`. This is the single source of truth for what has been processed.
 
@@ -67,6 +75,7 @@ The user may mark any URL as `revisit` to request a second pass with a different
 raw/                          # Immutable source documents
 wiki/                         # Claude owns this layer
   index.md                   # Master index — update on every ingest
+  log.md                     # Append-only operation log
   source-registry.md         # Tracks all fetched external URLs
   Sources/                   # Detailed literature notes (shared across topics)
   Five Marks of Mission/     # Topic 1
@@ -98,11 +107,13 @@ Triggered by: *"ingest raw/\<file\>"*
 Steps:
 1. Read the source document fully
 2. Read `wiki/index.md` for current wiki context
-3. Determine which of the three top topics the source relates to
-4. Create/update pages under the appropriate topic folder(s)
-5. Update `wiki/index.md` — add entries under the appropriate sections
-6. Flag any contradictions with existing wiki content
-7. Print a change summary listing all created/updated pages
+3. Discuss key takeaways with the user before writing anything — confirm which topics are relevant and what pages should be created or updated
+4. Determine which of the three top topics the source relates to
+5. Create/update pages under the appropriate topic folder(s)
+6. Update `wiki/index.md` — add entries under the appropriate sections
+7. Flag any contradictions with existing wiki content
+8. Append an entry to `wiki/log.md` (see Rule 9)
+9. Print a change summary listing all created/updated pages
 
 ### Source Page Format (Literature Notes)
 

@@ -14,7 +14,7 @@ This is especially relevant in pastoralist landscapes, where mobile livelihoods 
 
 ## Key Claims
 
-- Protected areas cover around 17% of the world's land, but coverage alone does not guarantee effective conservation
+- Protected areas cover around 17% of the world's land [needs verification], but coverage alone does not guarantee effective conservation
 - Exclusionary ("fortress") conservation models often harm local communities without improving ecological outcomes
 - Indigenous and community conserved areas (ICCAs) can be as effective or more effective than state-managed protected areas
 - Mobile pastoralism and protected areas can coexist through collaborative governance and corridor connectivity
