@@ -11,8 +11,15 @@ Welcome to the wiki! This guide walks you through everything you need to set up 
 
 ## Step 1: Create a GitHub Account
 
-1. Go to [github.com](https://github.com) and sign up
-2. Send your GitHub username to the project maintainer so they can give you access to the repository
+1. Go to [github.com/signup](https://github.com/signup)
+2. Enter your email address and click **Continue**
+3. Create a password (at least 15 characters, or 8 characters with a number and lowercase letter)
+4. Choose a username — this is your public identity on GitHub (e.g. `anna-schmidt`). Keep it short and recognisable. You can't easily change it later.
+5. Complete the email verification — GitHub sends a code to your email, enter it on the page
+6. Choose the **Free** plan (it has everything you need)
+7. You can skip the personalisation questions if you like
+
+Your username is what the project maintainer needs to give you access. Send it to them and wait for the invitation — you'll receive an email from GitHub asking you to accept access to the repository.
 
 ## Step 2: Install GitHub Desktop
 
