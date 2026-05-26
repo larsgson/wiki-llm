@@ -29,7 +29,7 @@ Open the root folder as a vault in [Obsidian](https://obsidian.md/). All `[[wiki
 
 ## Conventions
 
-All wiki conventions — page formats, naming rules, ingest workflow, source handling — live in `CLAUDE.md`. This file is read automatically by Claude Code. **If you use a different AI tool** (Cursor, Copilot, Gemini, etc.), feed `CLAUDE.md` to your tool at the start of each session so it follows the same rules.
+All wiki conventions — page formats, naming rules, ingest workflow, source handling — live in `CLAUDE.md`. This is the single source of truth that every contributor's AI assistant must follow.
 
 Key rules:
 - The three top-level topics are fixed and must not be renamed or restructured
@@ -38,12 +38,46 @@ Key rules:
 - Every fetched URL is logged in `wiki/source-registry.md` with status, date, and focus
 - `raw/` is immutable — source documents are never modified after being added
 
+## Setting Up Your AI Assistant
+
+The file `CLAUDE.md` contains all the rules, workflows, and page formats your AI assistant needs to follow. Despite the name, it is not Claude-specific — it works with any AI tool.
+
+### Claude Code
+No setup needed. Claude Code reads `CLAUDE.md` automatically when you open the project.
+
+### Cursor
+Cursor reads `.cursorrules` automatically. Copy `CLAUDE.md` to `.cursorrules` in the project root:
+1. Open a terminal in the project folder
+2. Run: `cp CLAUDE.md .cursorrules`
+3. Cursor will now follow the wiki conventions automatically
+
+If the project's `.cursorrules` gets out of date, re-copy from `CLAUDE.md` — that file is always the canonical version.
+
+### GitHub Copilot
+Copilot reads `.github/copilot-instructions.md` automatically. Copy the conventions there:
+1. Run: `cp CLAUDE.md .github/copilot-instructions.md`
+2. Copilot will now follow the wiki conventions in chat and suggestions
+
+### Windsurf
+Windsurf reads `.windsurfrules` automatically:
+1. Run: `cp CLAUDE.md .windsurfrules`
+
+### ChatGPT, Gemini, or other chat-based tools
+Paste the contents of `CLAUDE.md` into your first message at the start of each session. For example:
+> "Here are the conventions for this wiki project. Follow these rules for all work in this session: [paste CLAUDE.md contents]"
+
+### Important
+- `CLAUDE.md` is the canonical source — if you create a tool-specific copy (`.cursorrules`, etc.), keep it in sync
+- Do not commit tool-specific copies to the repository unless the team agrees — they can drift out of date
+- When in doubt, re-read `CLAUDE.md` directly
+
 ## Contributing
 
-This project will soon support multi-user collaboration. See `ROADMAP.md` for the planned workflow. Until then, contributions are managed by a single maintainer.
+This project supports multi-user collaboration. New contributors should start with `ONBOARDING.md` for a step-by-step setup guide.
 
-When multi-user mode is active:
-- Work on a named branch (`yourname/topic`)
-- Open a PR to `main` — no direct pushes
-- Check `wiki/source-registry.md` before ingesting to avoid duplicate work
+Key workflow rules:
+- Work on a named branch (`yourname/topic`) — no direct pushes to `main`
+- Open a PR using the provided template and wait for review before merge
+- Check `wiki/source-registry.md` before fetching any URL to avoid duplicate work
+- Feed `CLAUDE.md` to your AI tool at session start (Claude Code reads it automatically)
 - Review PRs for content contradictions and overlapping summaries
